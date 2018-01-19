@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scarne\'sDice</string>
+    <string name="yourScore">Your Score: </string>
+    <string name="computerScore">Computer Score: </string>
+    <string name="yourScoreVal">0</string>
+    <string name="computerScoreVal">0</string>
+    <string name="turnScore">Turn Score: </string>
+    <string name="turnScoreVal">0</string>
+    <string name="rollButton">Roll</string>
+    <string name="holdButton">Hold</string>
+    <string name="resetButton">Reset</string>
+
+</resources>
